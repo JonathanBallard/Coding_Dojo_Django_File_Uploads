@@ -22,31 +22,17 @@
 
     <script src="{% static 'js/script.js' %}"></script>
 
-    <title>File Upload</title>
+    <title>Upload</title>
 </head>
 <body>
-<h1>File Upload</h1>
 
+    <div class="container">
+        <h1>Form:</h1>
 
+        <h2>Form Title: {{ form.title }}</h2>
+        <h2>Form File: {{ form.file }}</h2>
 
-<form action="/file/upload/" method="POST">
-    {% csrf_token %}
-
-    <div class="form-group">
-        <label for="title">File Title:</label>
-        <input class="form-control" type="text" name="title">
     </div>
-
-    <div class="form-group">
-        <label for="file">File Upload:</label>
-        <input class="form-control" type="file" name="file">
-    </div>
-
-    <input type="submit" value="Upload" class="btn btn-lg btn-success">
-</form>
-
-
-
 
 
 
