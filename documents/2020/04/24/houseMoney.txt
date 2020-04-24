@@ -1,0 +1,43 @@
+311,280 + closing (10,000)
+mortgage = 212,000
+
+160,640 each house
+mom paid 16,470 
+mom paid 1,500
+mom will pay 750
+
+16,500 each repairs
+
+= 177,140 for me
+add 1,000 for my half of inspections
+add 20,000 for loan to mom
+= 198,140
+
+
+HOUSING REMODEL
+
+16500 initial
+
+
+floors/carpentry - 1390
+radon - 1695
+roof - 19950*
+painting - 2500 + 6500
+engineering inspection - 500
+gardener prep - 506
+cleanup - 580
+chimney/plumbing demo - 975
+skylight patch drywaller - 1680
+reframe wall + fireplace wallbaord + electrician holes - 1420
+drywaller - 6579
+electrician - 2560
+plumber - 1090
+warranty - 435
+heater - 100
+permits - 425
+light - 905
+enamel tub - 1490
+= 51,280
+
+
+
